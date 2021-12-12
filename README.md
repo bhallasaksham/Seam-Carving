@@ -26,9 +26,6 @@ The goal of this project is to perform content-aware image resizing for both red
 ### Scaling up 
 ![image size expansion](https://github.com/vivianhylee/seam-carving/raw/master/example/image17_result.png)
 
-### Object removal
-![object removal](https://github.com/vivianhylee/seam-carving/raw/master/example/image22_result.png)
-
 ## Result 2
 ### Scaling down
 ![animation image size reduction](https://github.com/vivianhylee/seam-carving/raw/master/example/image05_video.gif)
@@ -36,5 +33,3 @@ The goal of this project is to perform content-aware image resizing for both red
 ### Scaling up 
 ![animation image size expansion](https://github.com/vivianhylee/seam-carving/raw/master/example/image7_video.gif)
 
-### Object removal
-![animation object removal](https://github.com/vivianhylee/seam-carving/raw/master/example/image11_video.gif)
